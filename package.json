@@ -1,0 +1,22 @@
+{
+  "name": "j",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jommabeans",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jommabeans/npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jommabeans/npm/issues"
+  },
+  "homepage": "https://github.com/jommabeans/npm#readme",
+  "description": "",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
